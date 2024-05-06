@@ -5,7 +5,7 @@
 - UBUNTU 20.04
 - DEBIAN 10
 
-### FITUR TAMBAHAN
+### FITUR TAMBAHAN 🔥
 - Noobzvpn
 - Slowdns
 - SSH ws
@@ -15,6 +15,6 @@
 - Auto delete expired
 - User Details Akun
 
-### AUTHOR
+### KONTAK ADMIN ✉️
 <a href="https://t.me/diwayaa" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
 <a href="https://wa.me/6281228861758" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
