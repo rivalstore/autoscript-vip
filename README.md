@@ -2,10 +2,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=TUNNEL-STORES;By. DIWAYAA" />
 </p>
 
-### INSTALL SCRIPT 
-<pre><code>apt update && apt upgrade -y && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/oktaviaps/autoscript-vip/main/setup.sh && chmod +x setup.sh && ./setup.sh
-</code></pre>
-
 ### TESTED ON OS 
 - UBUNTU 20.04
 - DEBIAN 10
