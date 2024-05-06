@@ -136,7 +136,7 @@ TEXT="
 <code>──────────────────────</code>
 USERNAME      :<code> $name</code>
 Registered On :<code> $today</code>
-Expired On    :<code> $exp2</code>
+Expired On     :<code> $exp2</code>
 <code>──────────────────────</code>
 "
 curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
