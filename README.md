@@ -12,9 +12,10 @@
 - SSH ws
 - All X-Ray
 - Tambah Swap 1GiB
-- Auto block sebagian ads indo by default
+- Create vps
 - Auto delete expired
 - User Details Akun
+- Dll filtur🔥
 
 ### KONTAK ADMIN ✉️
 <a href="https://t.me/diwayaa" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
