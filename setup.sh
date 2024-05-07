@@ -681,12 +681,6 @@ wget https://raw.githubusercontent.com/oktaviaps/autoscript-vip/main/install/udp
 clear
 
 echo -e "${BIBlue}╭══════════════════════════════════════════╮${NC}"
-echo -e "${BIBlue}│ ${BGCOLOR}    PROCESS INSTALLED LIMIT XRAY        ${NC}${BIBlue} │${NC}"
-echo -e "${BIBlue}╰══════════════════════════════════════════╯${NC}"
-wget https://raw.githubusercontent.com/oktaviaps/autoscript-vip/main/bin/limit.sh && chmod +x limit.sh && ./limit.sh
-clear
-
-echo -e "${BIBlue}╭══════════════════════════════════════════╮${NC}"
 echo -e "${BIBlue}│ ${BGCOLOR}    PROCESS INSTALLED TROJAN-GO         ${NC}${BIBlue} │${NC}"
 echo -e "${BIBlue}╰══════════════════════════════════════════╯${NC}"
 wget https://raw.githubusercontent.com/oktaviaps/autoscript-vip/main/install/ins-trgo.sh && chmod +x ins-trgo.sh && ./ins-trgo.sh
@@ -702,6 +696,12 @@ cd noobzvpns
 bash install.sh
 rm -rf noobzvpns
 systemctl restart noobzvpns
+clear
+
+echo -e "${BIBlue}╭══════════════════════════════════════════╮${NC}"
+echo -e "${BIBlue}│ ${BGCOLOR}    PROCESS INSTALLED LIMIT XRAY        ${NC}${BIBlue} │${NC}"
+echo -e "${BIBlue}╰══════════════════════════════════════════╯${NC}"
+wget https://raw.githubusercontent.com/oktaviaps/autoscript-vip/main/bin/limit.sh && chmod +x limit.sh && ./limit.sh
 clear
 }
 
